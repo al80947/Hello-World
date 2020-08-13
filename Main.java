@@ -14,5 +14,6 @@ public class Main
 		System.out.println("My favorite video game is LOL");
 		System.out.println("I want to go to San Jose State University");
 		System.out.println("I'm considering majoring in Computer Science");
+		System.pit.println("My favorite color is black);
 	}   
 }
